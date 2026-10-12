@@ -33,3 +33,7 @@
 
 ### (d) The name column is NOT NULL: why did you still need your own check for an empty name?
 - Answer: Because NOT NULL accepts empty strings "" or spaces " ", so application checks are needed to ensure valid text.
+- <img width="1920" height="823" alt="Screenshot (331)" src="https://github.com/user-attachments/assets/25c5506f-a9c1-4a39-aac2-6fc0aabd9bf9" />
+<img width="1920" height="766" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/59ad4989-140e-481e-9ef9-183fec2514cb" />
+<img width="1920" height="813" alt="Screenshot (335)" src="https://github.com/user-attachments/assets/d68d11ed-43b1-4f55-ac3e-1eb44f2abe0d" />
+<img width="942" height="767" alt="Screenshot (337)" src="https://github.com/user-attachments/assets/61825b00-f7fa-4d42-9b91-8b33c7775ebb" />
